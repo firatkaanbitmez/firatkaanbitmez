@@ -1,8 +1,8 @@
-#💫 About Me:
+# 💫 About Me:
 FrontEnd  Web Developer & .Net Framework/Maui<br>firatbitmez.com
 
 
-##🌐 Socials:
+## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/VhtQ52zANT) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/firatkaanbitmez/) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/FIRAT-KAAN-BTMEZ) 
 
 # 💻 Tech Stack:
