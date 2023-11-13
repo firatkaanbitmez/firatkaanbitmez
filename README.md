@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🔭 I’m currently working on: CSS Desings,Batch Script Generator,Browers Screen Recorder<br>💬 Ask me about: firatbitmez@outlook.com<br>
+<br>🔭 I’m currently working on: CSS Desings,Batch Script Generator,Browers Screen Recorder<br>💬 Ask me about: firatbitmez@outlook.com  && https://firatbitmez.com<br>
 
 
 ## 🌐 Socials:
