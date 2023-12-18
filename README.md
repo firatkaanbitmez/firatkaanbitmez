@@ -1,6 +1,6 @@
 [![](https://visitcount.itsvg.in/api?id=firatkaanbitmez&icon=0&color=9)](https://visitcount.itsvg.in)
 # 💫 About Me:
-<br>🔭 I’m currently working on: CSS Desings,Batch Script Generator<br>💬 Ask me about: https://firatbitmez.com<br>
+<br>🔭 I’m currently working on: A Shopping website with Asp.net Core <br>💬 Ask me about: https://firatbitmez.com<br>
 
 
 ## 🌐 Socials:
