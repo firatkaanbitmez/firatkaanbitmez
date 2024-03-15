@@ -1,7 +1,7 @@
 [![](https://visitcount.itsvg.in/api?id=firatkaanbitmez&icon=0&color=9)](https://visitcount.itsvg.in)
 
 # 💫 About Me
-- 🔭 Currently working on: A Shopping website with Asp.net Core
+- 🔭 Currently working on: NPL,AI,DataMining
 - 💬 Ask me about: [My Website](https://firatbitmez.com)
 
 ## 🌐 Socials
